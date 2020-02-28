@@ -14,7 +14,7 @@ To run the specs or fire up the server, be sure you have these installed (and ru
 
 * Ruby 2.6 (see [.ruby-version](.ruby-version)).
 * PostgreSQL 11.2+ (`brew install postgresql`).
-* Heroku CLI (`brew install heroku`).
+* Heroku CLI (`brew install heroku/brew/heroku`).
 
 ### First Time Setup
 
